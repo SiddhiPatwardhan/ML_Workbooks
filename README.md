@@ -20,8 +20,6 @@ This repository contains a collection of machine learning notebooks created for 
 - Python
 - Scikit-learn
 - Pandas & NumPy
-- XGBoost
-- SHAP
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
