@@ -4,7 +4,7 @@ This repository contains a collection of machine learning notebooks created for 
 
 ---
 
-## 📚 What You'll Find
+## What You'll Find
 
 - Clean and structured Jupyter notebooks
 - Exploratory data analysis (EDA) and visualizations
@@ -15,7 +15,7 @@ This repository contains a collection of machine learning notebooks created for 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Scikit-learn
